@@ -7,3 +7,7 @@
         - htop
         - mc
         - tmux
+      get_version:
+        major: "9"
+        minor: "1"
+        build: "14393"
